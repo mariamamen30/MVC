@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+@model User
+<html>
+<head>
+    <style>
+        form {
+            border: 1px black solid;
+            padding: 15px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Registration</h1>
+    <form method="post" action="">
+
+        <div>Name:</div>
+        @Html.TextBoxFor(u => u.Name)
+        <div>Email:</div>
+        @Html.TextBoxFor(u => u.Email)
+        <div>Salary:</div>
+        @Html.TextBoxFor(u => u.Salary)
+        <div>Address:</div>
+        @Html.TextBoxFor(u => u.Address)
+        
+        <br />
+        <br />
+        <input type="submit" value="Submit" />
+    </form>
+</body>
+</html>
