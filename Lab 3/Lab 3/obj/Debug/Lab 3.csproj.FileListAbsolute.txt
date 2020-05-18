@@ -1,0 +1,53 @@
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\obj\Debug\Lab 3.csprojResolveAssemblyReference.cache
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\ApplicationInsights.config
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\roslyn\csc.exe
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\roslyn\System.Collections.Immutable.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\roslyn\System.Reflection.Metadata.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\roslyn\vbc.exe
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\roslyn\VBCSCompiler.exe
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\roslyn\VBCSCompiler.exe.config
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\Lab 3.dll.config
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\Lab 3.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\Lab 3.pdb
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\EntityFramework.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\EntityFramework.SqlServer.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\Microsoft.AI.Agent.Intercept.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\Microsoft.AI.DependencyCollector.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\Microsoft.AI.Web.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\Microsoft.AI.WindowsServer.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\Microsoft.ApplicationInsights.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\Microsoft.Web.Infrastructure.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\System.Web.Helpers.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\System.Web.Mvc.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\System.Web.Razor.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\System.Web.Webpages.Deployment.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\System.Web.Webpages.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\System.Web.Webpages.Razor.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\EntityFramework.xml
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\EntityFramework.SqlServer.xml
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\Microsoft.AI.DependencyCollector.xml
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\Microsoft.AI.Web.xml
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\Microsoft.AI.WindowsServer.xml
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\Microsoft.ApplicationInsights.xml
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\System.Web.Razor.xml
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\System.Web.Webpages.xml
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\System.Web.Webpages.Deployment.xml
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\System.Web.Webpages.Razor.xml
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\System.Web.Helpers.xml
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\bin\System.Web.Mvc.xml
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\obj\Debug\Lab 3.dll
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\obj\Debug\Lab 3.pdb
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\obj\Debug\Lab_3.Migrations.initial.resources
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\obj\Debug\Lab 3.csproj.GenerateResource.Cache
+F:\_ITI\30. MVC\Project\MVC\Lab 3\Lab 3\obj\Debug\Lab_3.Migrations.editTableEmployee.resources

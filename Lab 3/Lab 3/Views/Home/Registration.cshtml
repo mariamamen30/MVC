@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Registration";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model Employee
+
+    <h1>Registration</h1>
+    <form method="post" action="">
+        <div class="form-group"></div>
+        <div>Name:</div>
+        @Html.TextBoxFor(e => e.Name, new { @class = "form-control" })
+        <div>Email:</div>
+        @Html.TextBoxFor(e => e.Email, new { @class = "form-control"})
+        <div>Salary:</div>
+        @Html.TextBoxFor(e => e.Salary, new { @class = "form-control" })
+        <div>Address:</div>
+        @Html.TextBoxFor(e => e.Address, new { @class = "form-control" })
+        <div>Gender:</div>
+        @Html.EnumDropDownListFor(e=>e.Gender, new { @class = "form-control" })
+        <br />
+        <br />
+        <input type="submit" value="Submit" class="btn btn-primary"/>
+    </form>
+
